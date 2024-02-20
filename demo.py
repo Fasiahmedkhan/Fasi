@@ -1,5 +1,5 @@
 
-n = int(input("Enter a non-negative integer: "))
+n = int(input("Enter a noneger: "))
 
 if n < 0:
     print("Please enteger.")
