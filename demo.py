@@ -2,7 +2,7 @@
 n = int(input("Enter a non-negative integer: "))
 
 if n < 0:
-    print("Please enter a non-negative integer.")
+    print("Please enteger.")
 else:
   
     factorial = 1
